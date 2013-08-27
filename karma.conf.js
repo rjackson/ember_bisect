@@ -11,9 +11,8 @@ module.exports = function(config) {
     files: [
       'vendor/jquery.js',
       'vendor/handlebars.js',
-      '../../javascript/ember.js/dist/ember.js',
-      'app.js',
-      'tests.js',
+      '../ember.js/dist/ember.js',
+      'assets/*.js',
     ],
 
     frameworks: ['qunit'],
