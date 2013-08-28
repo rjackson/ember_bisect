@@ -28,7 +28,7 @@ bundle install
 # if you don't already have karma installed
 npm install -g karma 
 
-# navigate to the ember_bisect director
+# navigate to the ember_bisect directory
 cd ember_bisect
 
 # install required packages
