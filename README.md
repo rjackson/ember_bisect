@@ -9,8 +9,8 @@ This project basically exists to make running `git bisect` to detect issues in a
 Clone both this project and the main `ember.js` repo.
 
 ```sh
-git clone git@github.com:emberjs/ember.js.git
-git clone git@github.com:rjackson/ember_bisect.git
+git clone https://github.com/emberjs/ember.js.git
+git clone https://github.com/rjackson/ember_bisect.git
 ```
 
 Make sure you have the dependencies needed to build ember.js:
